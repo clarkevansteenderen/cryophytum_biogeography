@@ -11,11 +11,11 @@ Centre for Biological Control, Department of Zoology and Entomology, Rhodes Univ
 
 The scripts:      
 
-* **001_filtering_fulldata.R** filters the SNP output file (.vcf) from the Stacks workflow, using the SNPfiltR package. The **populations.snps.vcf** file is too large to host here, but is available from the CBC's Google Drive link: https://drive.google.com/file/d/1Bwo_qCxgxVFOgmslem3sMfiCX3D1Ez1k/view?usp=sharing
+* **001_filtering_fulldata.R** filters the SNP output file (.vcf) from the Stacks workflow, using the `SNPfiltR` package. The **populations.snps.vcf** file is too large to host here, but is available from the CBC's Google Drive link: https://drive.google.com/file/d/1Bwo_qCxgxVFOgmslem3sMfiCX3D1Ez1k/view?usp=sharing
 * **002_hybrid_analysis.R** runs population genetics statistics on the filtered SNP file, produces PCAs, maps, and fastSTRUCTURE plots
 * **003_hybrids_climate_analysis.R** runs the analyses that investigate potential links between climate and edaphic variables and genetic distance between populations, and runs Mantel tests and correlation analyses
 
-🌐The WordClim and SoilGRIDS variables need to be downloaded by the user using the R geodata package, as the data files are too large to provide in this repository.
+🌐The WordClim and SoilGRIDS variables need to be downloaded by the user using the R `geodata` package, as the data files are too large to provide in this repository.
 
 All raw SNP data are available on the GenBank SRA under project ID **PRJNA1304995**.
-This repository is linked to Zenodo, with the doi: [10.5281/zenodo.19438438](https://doi.org/10.5281/zenodo.19438438)
+This repository is linked to a permanent Zenodo doi: [10.5281/zenodo.19438438](https://doi.org/10.5281/zenodo.19438438)

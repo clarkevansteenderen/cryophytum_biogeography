@@ -7,7 +7,7 @@ by: van Steenderen, C.J.M., Sandenbergh, E., and Paterson, I.D. 2026
 
 The scripts:      
 
-* **001_filtering_fulldata.R** filters the SNP output file (.vcf) from the Stacks workflow, using the SNPfiltR package
+* **001_filtering_fulldata.R** filters the SNP output file (.vcf) from the Stacks workflow, using the SNPfiltR package. The **populations.snps.vcf** file is too large to host here, but is available on the Google Drive link: https://drive.google.com/file/d/1Bwo_qCxgxVFOgmslem3sMfiCX3D1Ez1k/view?usp=sharing
 * **002_hybrid_analysis.R** runs population genetics statistics on the filtered SNP file, produces PCAs, maps, and fastSTRUCTURE plots
 * **003_hybrids_climate_analysis.R** runs the analyses that investigate potential links between climate and edaphic variables and genetic distance between populations, and runs Mantel tests and correlation analyses
 

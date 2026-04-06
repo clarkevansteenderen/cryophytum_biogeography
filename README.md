@@ -1,4 +1,4 @@
-# Cryophytum Biogeography: coding workflow
+# *Cryophytum* Biogeography in South Africa: coding workflow
 
 This repository contains the R code to reproduce the downstream analyses for the results in the paper:    
 

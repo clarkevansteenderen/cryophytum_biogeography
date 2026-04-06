@@ -1,4 +1,5 @@
 # *Cryophytum* Biogeography in South Africa: coding workflow
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/9ecfa720-6d91-42a8-a4b5-a2425c9f0dbb" />
 
 This repository contains the R code to reproduce the downstream analyses for the results in the paper:    
 
@@ -14,3 +15,4 @@ The scripts:
 🌐The WordClim and SoilGRIDS variables need to be downloaded by the user using the R geodata package, as the data files are too large to provide in this repository.
 
 All raw SNP data are available on the GenBank SRA under project ID **PRJNA1304995**.
+This repository is linked to Zenodo, with the doi: [10.5281/zenodo.19438438](https://doi.org/10.5281/zenodo.19438438)

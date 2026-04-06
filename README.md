@@ -12,3 +12,5 @@ The scripts:
 * **003_hybrids_climate_analysis.R** runs the analyses that investigate potential links between climate and edaphic variables and genetic distance between populations, and runs Mantel tests and correlation analyses
 
 🌐The WordClim and SoilGRIDS variables need to be downloaded by the user using the R geodata package, as the data files are too large to provide in this repository.
+
+All raw SNP data are available on the GenBank SRA under project ID **PRJNA1304995**.

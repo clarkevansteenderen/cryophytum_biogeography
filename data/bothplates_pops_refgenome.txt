@@ -1,0 +1,136 @@
+AVSA1	Arniston Village
+AVSA2	Arniston Village
+AVSA3	Arniston Village
+BBSA1	Bloubergstrand
+BBSA2	Bloubergstrand
+BBSA3	Bloubergstrand
+CI11.1.1	Canary Islands
+CYP1	Cyprus
+CYP2	Cyprus
+CYP3	Cyprus
+DWSA1	Dwarskersbos
+DWSA2	Dwarskersbos
+DWSA4	Dwarskersbos
+EBSA1	Elands Bay Baboon Point
+EBSA2	Elands Bay Baboon Point
+EBSA3	Elands Bay Baboon Point
+EG06.1	Egypt
+EG09.2	Egypt
+EG6.2	Egypt
+EG6.4	Egypt
+EG9.3	Egypt
+EG9.4	Egypt
+GBSA1	Gansbaai
+GBSA2	Gansbaai
+GBSA3	Gansbaai
+GPSA1	Green Point
+GPSA2	Green Point
+GPSA3	Green Point
+HBSA1	Hawston Beach
+HBSA2	Hawston Beach
+HBSA3	Hawston Beach
+HKSA1	Hondeklip Bay
+HKSA2	Hondeklip Bay
+HKSA3	Hondeklip Bay
+I01.3	Italy
+I02.1	Italy
+KBSA1	Kalk Bay
+KBSA2	Kalk Bay
+KBSA3	Kalk Bay
+LBSA1	Langebaan
+LBSA2	Langebaan
+LBSA3	Langebaan
+LPSA1	Liepoldtville
+LPSA2	Liepoldtville
+LPSA3	Liepoldtville
+M2SA1	Melkbosstrand Wetland
+M2SA2	Melkbosstrand Wetland
+M2SA3	Melkbosstrand Wetland
+MBSA1	Melkbosstrand Beachfront
+MBSA2	Melkbosstrand Beachfront
+MGSA1	Malgas Pont
+MGSA2	Malgas Pont
+MGSA3	Malgas Pont
+MO05.1	Morocco
+MO05.2	Morocco
+MX01.2	Mexico
+MX01.4	Mexico
+MX03.1	Mexico
+OUSA1	South Africa
+OUSA2	South Africa
+OUSA3	South Africa
+OUSA4	South Africa
+PBSA1	Port Beaufort
+PBSA2	Port Beaufort
+PBSA3	Port Beaufort
+PNSA1	Paternoster
+PNSA4	Paternoster
+SA10.3.1	South Africa
+SA10.3.2	South Africa
+SA10.3.4	South Africa
+SA10.3.5	South Africa
+SA11.2	South Africa
+SA11.3	South Africa
+SA11.4	South Africa
+SA11.5	South Africa
+SA11.8	South Africa
+SA11.9	South Africa
+SA12.3.1	South Africa
+SA12.3.2	South Africa
+SA12.3.3	South Africa
+SA12.3.4	South Africa
+SA13.1.2	South Africa
+SA13.1.3	South Africa
+SA13.1.4	South Africa
+SA13.1.5	South Africa
+SA14.3.2	South Africa
+SA14.3.3	South Africa
+SA14.3.4	South Africa
+SA15.3.1	South Africa
+SA15.3.4	South Africa
+SA16.1.1	South Africa
+SA16.1.2	South Africa
+SA16.1.3	South Africa
+SA16.1.4	South Africa
+SA16.1.5	South Africa
+SA17.1.2	South Africa
+SA17.1.3	South Africa
+SA17.1.4	South Africa
+SA7.8	South Africa
+SA7.9	South Africa
+SA9.3.1	South Africa
+SA9.3.2	South Africa
+SA9.3.3	South Africa
+SA9.3.4	South Africa
+SBSA1	Struisbaai
+SBSA2	Struisbaai
+SBSA3	Struisbaai
+SSSA1	Silverstroom Beach
+SSSA2	Silverstroom Beach
+SSSA3	Silverstroom Beach
+TBSA1	Table Bay Nature Reserve Sunset Beach
+TBSA2	Table Bay Nature Reserve Sunset Beach
+TBSA3	Table Bay Nature Reserve Sunset Beach
+USA01.2	United States
+USA02.1	United States
+USA02.2	United States
+USA03.1	United States
+USA03.3	United States
+USA03.5	United States
+USA03.6	United States
+USA04.1	United States
+USA04.2	United States
+USA04.5	United States
+USA1.1.3	United States
+USA1.1.5	United States
+USA2.1.1	United States
+USA3.1.4	United States
+USA4.2	United States
+USA6.1.2	United States
+USA8.1.1	United States
+WSSA1	Witsand
+WSSA2	Witsand
+WSSA3	Witsand
+YZSA1	Yzerfontein
+YZSA2	Yzerfontein
+YZSA3	Yzerfontein
